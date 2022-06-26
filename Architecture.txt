@@ -1,0 +1,3 @@
+Obtain tab music dataset
+Code to convert to notes
+Train model to base tab of note
